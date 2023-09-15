@@ -5,11 +5,15 @@
   "attributes": [
     {
       "trait_type": "Индекс Модели",
-      "value": "13"
+      "value": "1"
     },
     {
       "trait_type": "Индекс коллекции",
-      "value": "1"
+      "value": "13"
+    },
+    {
+      "trait_type": "Вес",
+      "value": "53"
     }
   ],
   "image": "https://s.getgems.io/nft/c/643a7803231e3be21b219b72/22/image.png"

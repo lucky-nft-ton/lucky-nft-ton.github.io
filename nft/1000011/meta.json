@@ -1,6 +1,6 @@
 {
-  "name": "NFT-AVA-5",
-  "description": "Описание:\n1. https://t.me/nft_avatarki\n2. https://vk.com/nft_avy",
+  "name": "LUCKY-AVA-5",
+  "description": "NFT из коллекции купить (первично) у нас нельзя. Каждую новую нфтишку - можно только выиграть!\n\nКаждая NFT из нашей коллекции это знак удачи!\n\nЕсли вы стали обладателем NFT, то выбор остается за вами - оставить себе или продать свою удачу!\n\nПодробнее:\n1. https://t.me/nft_avatarki\n2. https://vk.com/nft_avy",
   "marketplace": "getgems.io",
   "attributes": [
     {
@@ -10,6 +10,10 @@
     {
       "trait_type": "Индекс коллекции",
       "value": "5"
+    },
+    {
+      "trait_type": "Вес",
+      "value": "39"
     }
   ],
   "image": "https://s.getgems.io/nft/c/643a7803231e3be21b219b72/11/image.png"
