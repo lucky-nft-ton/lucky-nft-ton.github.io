@@ -1,0 +1,12 @@
+{
+  "name": "Тест нфт on gh",
+  "description": ">1",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "test",
+      "value": "true"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/645e3152e214605f9634b610/0/image.png"
+}
