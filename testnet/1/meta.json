@@ -1,0 +1,12 @@
+{
+  "name": "Тест создания нфт on gh",
+  "description": ">2",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "test",
+      "value": "yes"
+    }
+  ],
+  "image": "https://9f1d35f0-9723-4227-8c0b-5280ede3d964.selcdn.net/lucky-nft/test/30.png"
+}
