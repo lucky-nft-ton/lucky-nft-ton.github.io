@@ -1,0 +1,16 @@
+{
+  "name": "VK-NFT-AVA-2",
+  "description": "Описание https://vk.com/nft_avy?w=wall-9452260_166",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Индекс Модели",
+      "value": "1"
+    },
+    {
+      "trait_type": "Индекс коллекции",
+      "value": "2"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/643a7803231e3be21b219b72/2/image.png"
+}

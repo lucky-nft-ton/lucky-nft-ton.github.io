@@ -1,0 +1,16 @@
+{
+  "name": "LUCKY-AVA-6",
+  "description": "Описание:\n1. https://t.me/nft_avatarki\n2. https://vk.com/nft_avy",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Индекс Модели",
+      "value": "1"
+    },
+    {
+      "trait_type": "Индекс коллекции",
+      "value": "6"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/643a7803231e3be21b219b72/13/image.png"
+}

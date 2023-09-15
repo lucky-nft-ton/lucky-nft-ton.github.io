@@ -1,0 +1,16 @@
+{
+  "name": "NFT-AVA-1-4",
+  "description": "Описание: \n1. https://t.me/nft_avatarki\n2. https://vk.com/nft_avy",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Индекс Модели",
+      "value": "4"
+    },
+    {
+      "trait_type": "Индекс коллекции",
+      "value": "1"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/643a7803231e3be21b219b72/5/image.png"
+}
