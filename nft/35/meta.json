@@ -1,5 +1,5 @@
 {
-  "name": "LUCKY-AVA-25",
+  "name": "LUCKY-AVA-26",
   "description": "NFT из коллекции купить (первично) у нас нельзя. Каждую новую нфтишку - можно только выиграть!\n\nКаждая NFT из нашей коллекции это знак удачи!\n\nЕсли вы стали обладателем NFT, то выбор остается за вами - оставить себе или продать свою удачу!\n\nПодробнее:\n1. https://t.me/nft_avatarki\n2. https://vk.com/nft_avy",
   "marketplace": "getgems.io",
   "attributes": [
@@ -9,12 +9,12 @@
     },
     {
       "trait_type": "Индекс коллекции",
-      "value": "25"
+      "value": "26"
     },
     {
       "trait_type": "Вес",
-      "value": "4"
+      "value": "0"
     }
   ],
-  "image": "https://9f1d35f0-9723-4227-8c0b-5280ede3d964.selcdn.net/lucky-nft/34.png"
+  "image": "https://9f1d35f0-9723-4227-8c0b-5280ede3d964.selcdn.net/lucky-nft/35.png"
 }
