@@ -1,0 +1,12 @@
+{
+  "name": "LUCKY WALLET",
+  "description": "Ваш личный безопасный контейнер, для хранения TON, NFT и Jetton.",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Lucky Wallet",
+      "value": "Yes"
+    }
+  ],
+  "image": "https://371704b6-82f9-4f64-833f-11ca879c8395.selstorage.ru/lucky-nft/wallet/wallet.png"
+}
