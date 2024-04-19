@@ -1,2 +1,2 @@
 # lucky-nft-ton.github.io
-Lucky NFT website
+Lucky TON website
